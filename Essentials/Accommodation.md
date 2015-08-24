@@ -1,11 +1,10 @@
 # Accommodation
 
-## Search Engines
+## Hostels & Hotels
+### Search Engines
 * [HotelsCombined](http://www.hotelscombined.com) (hotelscombined.com)
 * [KAYAK](http://www.kayak.com/) (kayak.com)
 * [trivago](http://www.trivago.com/) (trivago.com)
-
-## Providers
 
 ### Hostels
 * [HostelBookers](http://www.hostelbookers.com/) (hostelbookers.com)
@@ -13,8 +12,13 @@
 ### Hotels
 * [Booking](http://www.booking.com) (booking.com)
 
-### Apartments / houses / other
+## Apartments / houses
+* [zilyo](https://zilyo.com/) (zilyo.com) - combined search engine
 * [Airbnb](https://www.airbnb.cz/) (airbnb.com)
 
-## Other resources
+## Other
+* [Couchsurfing.com](https://www.couchsurfing.com/) (couchsurfing.com) - stay with locals
+
+# Other resources
+## Deals / Vouchers
 * [Extreme Hotel Deals](http://extremehoteldeals.com/) (extremehoteldeals.com) - error hotel rates
