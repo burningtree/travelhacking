@@ -18,6 +18,7 @@
 
 ## Activities
 * [Musement](https://www.musement.com/en/) (musement.com) - easy online book Tours, Museums, Attractions around world
+* [GetYourGuide](http://www.getyourguide.com/) (getyourguide.com) - more destinations, 27k+ things to do
 
 ## Internet connection
 * [Prepaid Data SIM Card Wiki](http://prepaid-data-sim-card.wikia.com/wiki/Prepaid_SIM_with_data) - overview of countries & operators

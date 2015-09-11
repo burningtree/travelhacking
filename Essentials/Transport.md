@@ -8,6 +8,9 @@ Only global-wide services included, for more see specific continent/country/city
 ### Air Transport
 * [Skyscanner](http://www.skyscanner.com/) (skyscanner.com) - flights around world
 
+### Ground Transport
+* [Offi](https://play.google.com/store/apps/details?id=de.schildbach.oeffi&hl=en) (Android) 15+ countries
+
 ### Long distance (train/bus)
 * [CheckMyBus](http://www.checkmybus.com/) (checkmybus.com) - find cheap bus tickets (mainly Western Europe, USA)
 

@@ -7,7 +7,6 @@
 ### Public Transport
 * [9292](http://9292.nl/en) (9292.nl) - official journey planner, whole country
 
-## Other Resources
-### Deals / Vouchers
+## Deals / Vouchers
 * [Scoupy](https://scoupy.com/) (scoupy.com) - discount coupons
 

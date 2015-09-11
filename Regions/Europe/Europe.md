@@ -23,5 +23,10 @@
 ### Ride-sharing
 * [BlaBlaCar](https://www.blablacar.com/) (blablacar.com)
 
+## Internet
+### Mobile Data Roaming
+* [Go Europe @ Orange.es](http://novedades.orange.es/descubre/GoEurope/) - 100MB / 24h / 1€ in all EU countries (0.01€/MB)
+* [Smart Passport @ Vodafone.it](http://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Tariffe/Estero/Europa-SMART-Passport) - 500MB for 3€ per day (till 00:00 italian time) in all EU countries (+Turkey, Switzerland, USA and more) (0.006€/MB)
+
 ## Weather
 * [Weather Radar Data EU](http://www.radareu.cz/) (radareu.cz) - EU radars combined, weather warnings, temperature map

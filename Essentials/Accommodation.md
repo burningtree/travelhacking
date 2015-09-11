@@ -13,8 +13,8 @@
 * [Booking](http://www.booking.com) (booking.com)
 
 ## Apartments / houses
-* [zilyo](https://zilyo.com/) (zilyo.com) - combined search engine
 * [Airbnb](https://www.airbnb.cz/) (airbnb.com)
+* [HomeAway](http://homeaway.com) (homeaway.com)
 
 ## Other
 * [Couchsurfing.com](https://www.couchsurfing.com/) (couchsurfing.com) - stay with locals

@@ -27,7 +27,6 @@
 * [radar.bourky.cz](http://radar.bourky.cz/) (radar.bourky.cz) - official radar data
 * [Meteor](https://play.google.com/store/apps/details?id=org.androworks.meteor&hl=en) (Android) - meteorological radar data with prediction
 
-## Other Resources
-### Deals / Vouchers
+## Deals / Vouchers
 * [Slevomat](https://www.slevomat.cz/) (slevomat.cz) - Czech Groupon clone
 
