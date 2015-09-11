@@ -1,4 +1,4 @@
-# Knownledge
+# Knowledge
 
 ### Time / Timezones
 * [Time.is](http://time.is/) (time.is) - current time, time zones, offsets and more
